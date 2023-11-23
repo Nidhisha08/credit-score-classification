@@ -7,6 +7,7 @@ of predicting or categorizing individuals into different credit score groups bas
 various factors. Main aims to help lenders and financial institutions make informed
 decisions about granting loans, credit cards, mortgages, or other forms of credit.
 <br>
+<br>
     In this Credit score classification:Unveiling patterns through machine learning 
 project,main goal was to classifies credit scores based on various factors. To achieve this,
 undertook a exploratory data analysis (EDA) to gain insights into the dataset. The
