@@ -19,4 +19,10 @@ Along with other factor collectively effects the credit score. Further for the c
 score classification, explored different machine learning models, including logistic
 regression, K nearest neighbours, Backpropagation, and Random Forest. Random
 Forest model emerged as the top-performing algorithm compared to other model.
-
+<br>
+<br>
+File contains:
+ - 1.credit_score_cleaning- it is jupyter notebook, contains code related data cleaning
+ - 2.credit_score_bivariate- it is jupyter notebook, contains code related analysing the two variables by visulization,statistical techniques etc.
+ - 3.credit_score_model- it is jupyter notebook, contains code related data preprocessing, machine learning model
+ - credit- pdf file, contains overall details of projects
